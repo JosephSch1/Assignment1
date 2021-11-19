@@ -1,0 +1,68 @@
+body {
+	margin: 0px;
+	font-family: Arial;
+	background-color: #3225EE;
+	display: inline-block;
+}
+
+.page {
+	color: white;
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+}
+
+a:visited {
+	color: white;
+	
+}
+
+.trial {
+	padding: 10px 10px;
+	background-color: orange;
+	color: white;
+	font: bold;
+	border: 0px;
+	border-radius: 50px;
+	width: 120px;
+}
+
+.header1 {
+	font-size: 35px
+}
+
+.header2 {
+	font-size: 21px;
+}
+
+.text {
+	margin: 45px 0px 45px 125px;
+}
+
+.divGrow {
+	display: flex;
+	flex-grow: 1;
+}
+
+#focus {
+	font: bold;
+}
+
+
+.divider {
+	color: white;
+	font-size: 30px;
+	margin: 150px 0px 110px 0px;
+	display: flex;
+	justify-content: center;
+}
+
+.container {
+	margin: 0px 300px 0px 300px;
+}
+.container2 {
+	color: white;
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+}
